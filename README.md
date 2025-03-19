@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center"> Sou um estudante de análise e desenvolvimento de sistema na Uniruy Wyden em Salvador. Atualmente não atuo na área, porém eu estudo Python e Ruby paralelamente.
+  Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
+</p>
 
 
 
