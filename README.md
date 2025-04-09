@@ -9,8 +9,9 @@
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
+<center>
 ![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
-
+</center>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
