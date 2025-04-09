@@ -9,6 +9,7 @@
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedroLDSF&theme=blueberry&hide_border=true&locale=pt_BR&card_height=194)
 
 
 <picture align="center">
