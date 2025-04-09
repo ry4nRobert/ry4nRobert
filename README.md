@@ -9,7 +9,7 @@
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=150)
+![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
 
 
 <picture align="center">
