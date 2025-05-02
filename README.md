@@ -9,6 +9,18 @@
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25" alt="python logo" />
+<img widht="8" />
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
 
 
