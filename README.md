@@ -9,6 +9,9 @@
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
 <img width="8" />
@@ -20,9 +23,6 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25" alt="python logo" />
 <img widht="8" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
