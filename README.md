@@ -12,6 +12,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
 <img width="8" />
@@ -23,9 +30,3 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25" alt="python logo" />
 <img widht="8" />
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake.svg">
-</picture>
