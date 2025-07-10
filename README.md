@@ -8,14 +8,14 @@
 <p align="center"> Sou um estudante de análise e desenvolvimento de sistema na Uniruy Wyden em Salvador. Atualmente não atuo na área, porém eu estudo Python e Java paralelamente.
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
+
 <div> 
   <a href="https://www.instagram.com/ryaanro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ryanr252@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-robert-16106b227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ry4nRobert&theme=blueberry&hide_border=true&locale=pt_BR&card_height=100)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry4nRobert/ry4nRobert/output/github-contribution-grid-snake-dark.svg">
