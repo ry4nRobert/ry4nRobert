@@ -5,7 +5,7 @@
 </div>
 
 
-<p align="center"> Sou um estudante de análise e desenvolvimento de sistema na Uniruy Wyden em Salvador. Atualmente não atuo na área, porém eu estudo Python e Java paralelamente.
+<p align="center"> Sou um estudante de Engenharia de Software na UniJorge em Salvador. Atualmente atuo na área como Estágiario de TI, porém eu estudo Python e Java paralelamente.
   Estou publicando meus projetos por aqui, estou sempre disposto a aprender cada vez mais.
 </p>
 
